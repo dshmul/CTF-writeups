@@ -12,4 +12,4 @@ python3 ./RsaCtfTool.py -n 20533399299284046407152274475522745923283591903629216
 
 # Flag
 
-buckeye{B3_TH3R3_OR_B3_SQU4R3abcdefghijklmonpqrstuvwxyz0123456789}
+> buckeye{B3_TH3R3_OR_B3_SQU4R3abcdefghijklmonpqrstuvwxyz0123456789}
