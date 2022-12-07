@@ -8,7 +8,7 @@ Found the git log in the following file path:
 
 > .git => logs => HEAD 
 
-Checkouted out to branch which contained the message "Hid the flag".
+Checked out to branch which contained the message "Hid the flag".
 
 Viewed the contents of the flag file and found the flag in the first line.
 
