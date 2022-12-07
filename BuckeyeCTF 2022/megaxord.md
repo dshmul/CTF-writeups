@@ -10,7 +10,7 @@ I then decoded the whole text with this key.
 
 # Locating the flag
 
-The key was located in the decoded text.
+The flag was located in the decoded text.
 
 ![Package](megaxord-flag.png)
 
