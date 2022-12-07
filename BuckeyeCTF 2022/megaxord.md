@@ -4,7 +4,7 @@ We are given a txt file with text that is XOR encoded.
 
 # Decoding the text
 
-I copied part of the text into an online decoding tool (www.dcode.fr/xor-cipher) with the automatic decoding option which helped me identify the XOR key as 58.
+I copied part of the text into an online decoding tool (www.dcode.fr/xor-cipher). I enabled the automatic decoding option and excuted the program, which helped me identify the XOR key as 58.
 
 I then decoded the whole text with this key.
 
